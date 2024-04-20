@@ -1,0 +1,143 @@
+/* nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 120px;
+    font-size: 20px;
+
+
+}
+
+.nav-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800px;
+    font-size: 45px;
+    margin-left: 30px;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 40px;
+
+
+}
+
+.button-style {
+    background-color: orangered;
+    padding: 18px 35px;
+    color: azure;
+    font-size: 17px;
+    border-radius: 5px;
+    /* height: 30px; */
+    border: 0px;
+}
+
+.text-style {
+    color: orangered;
+}
+
+.banner {
+    margin: 200px 150px;
+    align-items: center;
+    display: flex;
+
+}
+
+.banner-subtitle {
+    color: blueviolet;
+    font-size: 25px;
+}
+
+.banner-title {
+    font-size: 50px;
+    color: cadetblue;
+
+}
+
+.banner-description {
+    color: crimson;
+    font-size: 20px;
+}
+
+.button-contact {
+    border: 10px;
+    border-radius: 8px;
+    margin: 20px;
+    padding: 17px 35px;
+    width: 150px;
+    background-color: burlywood;
+    font-size: 17px;
+}
+
+.image {
+    height: 450px;
+    width: 380px;
+}
+
+.back-image {
+    background-color: white;
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+
+}
+
+.about {
+    text-align: center;
+    background-color: beige;
+    padding: 130px 150px;
+    /* max-width: 1140px; */
+    /* max-height: 550px; */
+    margin: 250px;
+    border-radius: 12px;
+
+}
+
+.section-title {
+    font-size: 30px;
+}
+
+.section-description {
+    font-size: 17px;
+    padding-bottom: 30px;
+    color: darkgrey;
+}
+
+.table-quatation {
+    font-size: 20px;
+    color: darkgray;
+}
+
+.table-info {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+td {
+    padding-right: 20px;
+}
+
+.what-i-do {
+    text-align: center;
+    /* background-color:beige; */
+    margin: 300px
+    
+}
+.skill{
+    display: flex;
+    margin: 300px;
+    border:400px 200px;
+}
+.skill-expertise{
+    margin-left: 20px;
+    padding: 15px;
+    background-color:antiquewhite;
+    border-radius: 5px;
+} */
